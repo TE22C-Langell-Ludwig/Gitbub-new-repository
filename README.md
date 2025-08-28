@@ -1,4 +1,4 @@
-# Title text
+# Sample Title Text
 
 ## Description
 this is a excercise in github repo in bash
